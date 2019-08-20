@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Predicting Patent Rejections with NLP](https://johnherr.github.io/Predicting-Rejections-to-Patent-Claims-Under-101/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting User Churn](https://johnherr.github.io/predicting_churn/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
